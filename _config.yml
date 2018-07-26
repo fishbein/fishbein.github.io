@@ -34,6 +34,8 @@ linkedin_url: "https://linkedin.com/in/philfishbein"
 pinterest_url:
 slack_url:
 twitter_url: "https://twitter.com/fishbein"
+sass:
+    sass_dir: "/assets/css"
 
 # Google Analytics Tracking ID goes here:
 google_analytics:

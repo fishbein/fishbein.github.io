@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-prologue";
+@import "{{ site.theme }}";
 
 #nav ul li a.active span:before {
   color: #cc3700;

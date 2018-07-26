@@ -14,10 +14,10 @@ img {
    max-width: 100%;
 }
 
-.button {
+.button, input[type="button"], input[type="submit"] {
   background-color: #cc3700;
 }
 
-.button:hover {
+.button:hover, input[type="button"]:hover, input[type="submit"]:hover {
   background-color: orange;
 }

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Jump In"
+date:   2014-09-06 00:00:00 -0400
+icon: fa-rocket
+---
+
+For the past 4 years or so I’ve wanted to learn Objective-C so I could make those cool iPhone apps everyone’s talking about. I looked for resources, lined up tutorials, and consulted some friends who programmed for iOS, but I never seemed to learn. Something always got in the way and I never ended up learning anything.
+
+A few months ago, I came up with an interesting idea for an iOS app. It didn’t turn out to be a very good app, but that’s not important. What is important is that I determined the features I needed and looked up how to acomplist those individual features. Rather than following tutorials to build full-fledged apps that didn’t interest me, I picked apart an idea that I wanted to build and found I learned a lot more. I’ve found that this method is the only way to **really** learn a programming language.
+
+At work, they write web applications using C#. Day 1, I knew nothing about C# but after I simply jumped in, I was able to have a working knowledge of C# in just a few days. I’ve now written an entire web app just a week or so after having no knowledge of C#.
+
+So if you’re trying to learn a new language, just jump right in. Think of something you want to build with it, no matter how bad the idea is, and build it. Research what you don’t know and learn as you go. If you’re successful with this method or if you have a better way to learn new languages let me know, I’d love to hear about it!

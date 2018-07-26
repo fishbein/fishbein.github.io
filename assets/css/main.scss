@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#nav ul li a.active span:before {
+  color: #cc3700;
+}
+.image {
+  background: none !important;
+}
+
+img {
+   max-width: 100%;
+}
+
+.button {
+  background-color: #cc3700;
+}
+
+.button:hover {
+  background-color: orange;
+}

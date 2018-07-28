@@ -36,7 +36,7 @@ slack_url:
 twitter_url: "https://twitter.com/fishbein"
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: "UA-8945686-8"
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue

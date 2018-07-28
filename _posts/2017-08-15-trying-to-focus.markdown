@@ -5,12 +5,12 @@ date:   2017-08-15 00:00:00 -0400
 icon: fa-bell
 ---
 
-![](https://cdn-images-1.medium.com/max/1600/1*mSnS7u2pJu7Imz0ZX9lVwA.jpeg)
-_Credit: Unsplash, Tom the Photographer_
-
 Three weeks ago, I disabled Safari on my iPhone, took off my Apple Watch, and turned off almost all of my notifications.
 
-I’ve been thinking a lot about the distracting nature of technology — especially smartphones. Having access to all of the information in the world in your pocket at all times is both daunting and distracting; especially when there is a world just a few inches in any direction of that 5 inch screen. So, I decided to make a few changes.
+I’ve been thinking a lot about the distracting nature of technology — especially smart phones. Having access to all of the information in the world in your pocket at all times is both daunting and distracting; especially when there is a world just a few inches in any direction of that 5 inch screen. So, I decided to make a few changes.
+
+![](https://cdn-images-1.medium.com/max/1600/1*mSnS7u2pJu7Imz0ZX9lVwA.jpeg)
+_Credit: Unsplash, Tom the Photographer_
 
 ### Taking off my Apple Watch
 
